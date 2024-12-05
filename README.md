@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="![hero_github](https://github.com/user-attachments/assets/b323d650-0bcf-445a-8da1-c96c412ef901)"  
+  <img height="200" src="https://github.com/Mr-Feltrin/Mr-Feltrin/blob/main/hero_github.gif"  
 />
 </div>
 
