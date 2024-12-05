@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="370" src="https://github.com/Mr-Feltrin/Mr-Feltrin/blob/main/hero_github.gif"  
+  <img src="https://github.com/Mr-Feltrin/Mr-Feltrin/blob/main/hero_github.gif"  
 />
 </div>
 
