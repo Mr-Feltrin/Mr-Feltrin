@@ -1,5 +1,11 @@
+###
+
+<p align="left"></p>
+
+###
+
 <div align="center">
-  <img height="200" src="https://github.com/Mr-Feltrin/Mr-Feltrin/blob/main/hero_github.gif"  
+  <img height="370" src="https://github.com/Mr-Feltrin/Mr-Feltrin/blob/main/hero_github.gif"  
 />
 </div>
 
